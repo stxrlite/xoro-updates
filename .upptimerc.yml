@@ -8,7 +8,7 @@ sites:
   - name: Panel
     url: https://portal.xoro-hosting.com
   - name: Node 01
-    url: https://n1.xoro-hosting.com
+    url: https://n1.xoro-hosting.com:8080
   - name: Status
     url: https://status.xoro-hosting.com
 
@@ -22,10 +22,10 @@ status-website:
   introTitle: "**Xoro Hosting's** official status page."
   introMessage: Create a ticket if somthings offline!
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Panel
+      href: https://portal.xoro-hosting.com
+    - title: Main Website
+      href: https://xoro-hosting.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
