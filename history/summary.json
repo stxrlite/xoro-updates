@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/n1.xoro-hosting.com.ico",
     "slug": "node-01",
     "status": "down",
-    "uptime": "3.37%",
-    "uptimeDay": "3.37%",
-    "uptimeWeek": "3.37%",
-    "uptimeMonth": "3.37%",
-    "uptimeYear": "3.37%",
+    "uptime": "0.41%",
+    "uptimeDay": "0.41%",
+    "uptimeWeek": "0.41%",
+    "uptimeMonth": "0.41%",
+    "uptimeYear": "0.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-05": 0
+      "2022-12-05": 18
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://status.xoro-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.xoro-hosting.com.ico",
     "slug": "status",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 190,
+    "timeDay": 190,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2022-12-05": 0
+      "2022-12-05": 18
     }
   }
 ]
