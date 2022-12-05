@@ -8,7 +8,9 @@ sites:
   - name: Panel
     url: https://portal.xoro-hosting.com
   - name: Node 01
-    url: https://n1.xoro-hosting.com:8080
+    check: "tcp-ping"
+    url: 102.129.215.151
+    port: 8080
   - name: Status
     url: https://status.xoro-hosting.com
 
