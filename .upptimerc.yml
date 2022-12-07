@@ -7,7 +7,7 @@ sites:
     url: https://xoro-hosting.com
   - name: Panel
     url: https://portal.xoro-hosting.com
-  - name: Node 01
+  - name: Austin, TX
     check: "tcp-ping"
     url: 102.129.215.151
     port: 8080
