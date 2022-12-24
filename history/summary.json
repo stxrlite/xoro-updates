@@ -24,10 +24,10 @@
     "url": "https://portal.xoro-hosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.xoro-hosting.com.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
@@ -35,14 +35,16 @@
     "timeWeek": 188,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-24": 1
+    }
   },
   {
     "name": "Austin, TX",
     "url": "102.129.215.151",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "austin-tx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 27,
     "timeMonth": 28,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-24": 0
+    }
   },
   {
     "name": "Status",
@@ -61,17 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.xoro-hosting.com.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 136,
     "timeDay": 168,
     "timeWeek": 123,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
+      "2022-12-24": 1,
       "2022-12-21": 17,
       "2022-12-05": 18
     }
